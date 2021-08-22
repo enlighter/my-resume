@@ -1,0 +1,3 @@
+[submodule "career-docs"]
+	path = career-docs
+	url = git@github.com:enlighter/career-docs.git
